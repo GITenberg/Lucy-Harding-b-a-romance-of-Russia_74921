@@ -8,6 +8,9 @@ contributor:
     deathdate: 1910
     gutenberg_agent_id: '36252'
     url: http://www.gutenberg.org/2009/agents/36252
+covers:
+- cover_type: archival
+  image_path: 74921-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Mary Jane
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74921#Lucy-Harding-b-a-romance-of-Russia
 gutenberg_issued: '2024-12-17'
 gutenberg_type: Text
 identifiers:
